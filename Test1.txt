@@ -1,0 +1,1 @@
+cet xercice explique correctement le role des commandes git add et git commit -m ""
