@@ -1,1 +1,3 @@
-
+git status verifie l'état des fichier 
+git branch affiche la liste des branches actuelles
+New-Item  -path ItemType  file pour créer un nouveau fichier directement à partir de ton invite de commande
